@@ -1,0 +1,1 @@
+1-Pour initialiser: git init
